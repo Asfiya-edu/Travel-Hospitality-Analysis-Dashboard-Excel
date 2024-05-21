@@ -50,6 +50,8 @@ The analysis utilizes the following datasets:
 
 ### Tools
 -Microsoft Excel
+- Created **Navigation Options** to navigate across Dataset and other Dashboards
+- Included **Slicers** for making Dashboard Interactive   
 
 ### Data Cleaning and Preprocessing
 To do a Comprehensive Analysis, we performed the following tasks on the dataset to make it efficient for making Dashboards:
