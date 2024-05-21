@@ -8,7 +8,7 @@ SkyNet Analysis Inc. is a leading consultancy firm specializing in aviation anal
 
 Excel Comprehensive Dashboard & Analysis file: 
 
-# Dashborads
+# [Dashborads](#https://drive.google.com/file/d/1yegdCUbtEmIWtzObs00025iMDAB5_jYn/view?usp=sharing) 
 ## Dashboard 1: Airline Performance  
 ![Screenshot 2024-05-21 215618](https://github.com/Asfiya-edu/Travel-Hospitality-Analysis-Dashboard-Excel/assets/135417984/2ea14295-3da0-4567-8634-6369af5886ca)
 
@@ -34,6 +34,8 @@ The primary objective of this project is to analyze and interpret extensive data
 
 The ultimate goal is to provide strategic recommendations that enhance operational effectiveness, improve customer experiences in air travel, and contribute to the overall advancement of aviation industry standards and practices.
 
+![rainbowline](https://github.com/Asfiya-edu/Travel-Hospitality-Analysis-Dashboard-Excel/assets/135417984/7b2fe4d0-348c-4094-96e8-d12a40fffb4c)
+
 ### Data Sources
 
 The analysis utilizes the following datasets:
@@ -41,6 +43,8 @@ The analysis utilizes the following datasets:
 1. **flights.csv**: Contains detailed information on flight schedules, including departure and arrival times, delays, and other operational data.
 2. **airlines.csv**: Provides information on various airlines, including their operational statistics and performance metrics.
 3. **airports.csv**: Includes data on airports, covering traffic details, infrastructure, and other relevant information.
+
+![rainbowline](https://github.com/Asfiya-edu/Travel-Hospitality-Analysis-Dashboard-Excel/assets/135417984/a86a70b4-fb37-4d56-ba78-b4aa1534df41)
 
 ### Tools
 -Excel
@@ -52,6 +56,8 @@ To do a Comprehensive Analysis, we performed the following tasks on the dataset 
 3. Formatting Data Types
 4. Feature Engineering multiple columns
 
+![rainbowline](https://github.com/Asfiya-edu/Travel-Hospitality-Analysis-Dashboard-Excel/assets/135417984/a86a70b4-fb37-4d56-ba78-b4aa1534df41)
+
 ### Analysis Focus Areas
 
 1. **Flight Operations and Delays**: Analyzing patterns and causes of flight delays, understanding peak times for delays, and identifying strategies to minimize disruptions.
@@ -59,6 +65,8 @@ To do a Comprehensive Analysis, we performed the following tasks on the dataset 
 3. **Airport Traffic Dynamics**: Studying airport traffic patterns, identifying bottlenecks, and suggesting improvements for traffic flow and passenger experience.
 4. **Operational Efficiency**: Identifying key factors that impact the efficiency of flight operations and airport management.
 5. **Customer Experience**: Understanding the impact of delays and operational inefficiencies on passenger satisfaction and proposing measures to enhance the travel experience.
+
+![rainbowline](https://github.com/Asfiya-edu/Travel-Hospitality-Analysis-Dashboard-Excel/assets/135417984/a86a70b4-fb37-4d56-ba78-b4aa1534df41)
 
 ### Strategic Recommendations
 
@@ -68,6 +76,8 @@ Based on the analysis, the project aims to provide actionable insights and strat
 - Reducing flight delays and improving on-time performance.
 - Optimizing airport traffic management.
 - Improving customer satisfaction and travel experience.
+
+![rainbowline](https://github.com/Asfiya-edu/Travel-Hospitality-Analysis-Dashboard-Excel/assets/135417984/a86a70b4-fb37-4d56-ba78-b4aa1534df41)
 
 ### Limitations
 While this project provides valuable insights into the complexities of airline and airport operations, several limitations should be noted:
