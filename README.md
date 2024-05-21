@@ -8,7 +8,9 @@ SkyNet Analysis Inc. is a leading consultancy firm specializing in aviation anal
 
 Excel Comprehensive Dashboard & Analysis file: 
 
-# [Dashborads](#https://drive.google.com/file/d/1yegdCUbtEmIWtzObs00025iMDAB5_jYn/view?usp=sharing) 
+https://drive.google.com/drive/folders/1qNxpZKFWyS8K6YBGmQIKdJipG9j88Q8-?usp=sharing
+
+# Dashborads
 ## Dashboard 1: Airline Performance  
 ![Screenshot 2024-05-21 215618](https://github.com/Asfiya-edu/Travel-Hospitality-Analysis-Dashboard-Excel/assets/135417984/2ea14295-3da0-4567-8634-6369af5886ca)
 
@@ -47,7 +49,7 @@ The analysis utilizes the following datasets:
 ![rainbowline](https://github.com/Asfiya-edu/Travel-Hospitality-Analysis-Dashboard-Excel/assets/135417984/a86a70b4-fb37-4d56-ba78-b4aa1534df41)
 
 ### Tools
--Excel
+-Microsoft Excel
 
 ### Data Cleaning and Preprocessing
 To do a Comprehensive Analysis, we performed the following tasks on the dataset to make it efficient for making Dashboards:
